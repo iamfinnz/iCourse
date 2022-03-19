@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453444603126",
+    "project_id": "icourse-project",
+    "storage_bucket": "icourse-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453444603126:android:11a0073c5b2431bbebb0d7",
+        "android_client_info": {
+          "package_name": "com.example.icourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453444603126-0b54ij42d73r2bd62h65ms9bahcq4peh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJR2okQcCio4Mppd3mi3AgMSvgnkIUNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453444603126-0b54ij42d73r2bd62h65ms9bahcq4peh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

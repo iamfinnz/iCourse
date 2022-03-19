@@ -1,0 +1,14 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+        // Untuk library markdown
+        maven { url 'https://jitpack.io' }
+        // Untuk library youtube dan anko
+        maven { url 'https://jcenter.bintray.com' }
+    }
+}
+rootProject.name = "iCourse"
+include ':app'
